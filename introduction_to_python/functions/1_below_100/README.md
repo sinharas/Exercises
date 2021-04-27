@@ -5,7 +5,7 @@ Python function definition allows the developer to construct a block of code whi
 
 ## Problem Description
 Write a Python function `below_100` that consumes an integer `n`.
-If `n` is less than equal to 100 return `"less than 100"`, otherwise return `"greater than 100"`.
+If `n` is less than 100 return `"less than 100"`, otherwise return `"greater than 100"`.
 
 ## Example
 ```
