@@ -1,12 +1,9 @@
 def divisible_by_3(*args):
+   lst= []
    for num in args:
       if num%3==0:
-         print(num)
+         lst.append(num)
+         #print(num)
       else:
-         print()
-
-
-
-
-
-#===============
+         pass
+   return lst
